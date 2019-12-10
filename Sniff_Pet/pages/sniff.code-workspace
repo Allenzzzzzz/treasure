@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:\\xampp\\htdocs\\php\\Sniff_Pet"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\php\\itp_vetPoint"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
